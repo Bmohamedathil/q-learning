@@ -6,7 +6,7 @@ To develop a Python program to find the optimal policy for the given RL environm
 
 ## PROBLEM STATEMENT :
 
-Develop a Python program to derive the optimal policy using Q-Learning and compare state values with Monte Carlo method.
+Develop a Python program to implement Q-Learning for finding the optimal policy in a given Reinforcement Learning (RL) environment. Evaluate the learned policy by comparing state values obtained using Q-Learning with those computed via the Monte Carlo method. The program should demonstrate convergence of Q-Learning and analyze the accuracy of the state values. Finally, visualize and interpret the results to assess the effectiveness of both approaches.
 
 ## Q LEARNING ALGORITHM :
 
